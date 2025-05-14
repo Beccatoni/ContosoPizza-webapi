@@ -4,3 +4,4 @@ out/
 *.dll
 *.exe
 *.pdb
+appsettings.json
